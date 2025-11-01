@@ -98,7 +98,7 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
 - For component or style additions, follow the existing TypeScript + Tailwind patterns.
 - Run tests and linting locally before submitting PRs.
 
-#### Contact and Attribution
+#### Attribution and Contact
 
-- **Email:** abu.kayser.official@gmail.com
 - For questions about this repository or assistance with adapting it into your project, open an issue or contact the owner via
+- **Email:** abu.kayser.official@gmail.com
