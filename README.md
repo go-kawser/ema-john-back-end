@@ -1,4 +1,4 @@
-# Ema John | Modern E-commerce (React + TypeScript + Tailwind)
+# Ema John | Modern E-commerce with React + TypeScript + Tailwind
 
 Ema John is a polished, production-ready React e-commerce frontend showcasing a modern component architecture, TypeScript support, Tailwind CSS styling, and a static product catalog for demo and integration purposes. This repository is an ideal reference or starter kit for building a performant storefront with clear separation of concerns and ready-to-deploy static build output.
 
@@ -92,13 +92,30 @@ Ema John is a polished, production-ready React e-commerce frontend showcasing a 
   - GitHub Pages - push the contents of build/ to the gh-pages branch or use the Pages UI.
   - Netlify/Vercel - connect the repo and point the publish directory to `build/`.
 
-#### Contributing
+### Contributing
 
 - Bug fixes, improvements and PRs are welcome. Keep changes focused and include meaningful commit messages.
 - For component or style additions, follow the existing TypeScript + Tailwind patterns.
 - Run tests and linting locally before submitting PRs.
 
-#### Attribution and Contact
+### License
 
-- For questions about this repository or assistance with adapting it into your project, open an issue or contact the owner via
-- **Email:** abu.kayser.official@gmail.com
+- This project is licensed under the terms of the **[MIT License](./LICENSE)**.
+- You may replace or update the license as needed for client or proprietary projects.
+
+---
+
+### Contact and Maintainer
+
+**Maintainer:** [md-abu-kayser](https://github.com/md-abu-kayser)  
+**Name:** Md Abu Kayser - Full-Stack Engineer
+
+- **GitHub:** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
+- **Email:** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **Project:** _ema-john-back-end_
+
+If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
+
+---
+
+**Thank you for reviewing this project!**
